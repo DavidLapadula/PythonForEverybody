@@ -1,5 +1,5 @@
 # Python for everybody
-Course covering python fundamentals
+Course covering python fundamentals. 
 
 ## Topics Included
 
